@@ -1,5 +1,5 @@
 {
-    "name": "Media Search bot",
+    "name": "LuciferMoringstar_Robot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
+    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -42,14 +42,14 @@
             "value": "",
             "required": false
         },
-        "AUTH_CHANNEL": {
+        "FORCES_SUB": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "value": "",
             "required": false
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm [Media Search Bot](https://github.com/subinps/Media-Search-bot) or you can call me as Auto-Filter Bot**\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.",
+            "value": "**Hi, I'm ADV Auto Filter Bot**",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -78,7 +78,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
-            "value": ""
+            "value": "LuciferMoringstar_Robot"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
@@ -89,6 +89,26 @@
             "description": "The maximum amount of time in seconds that the result of the inline query may be cached on the server",
             "value": "300",
             "required": false
+        },
+        "BROADCAST_2": {
+            "description": "Value should be True or False. Broadcast with Forward Tag or as Copy.(Without Forward Tag)",
+            "value": "True",
+            "required": false
+        },
+        "BROACKCAST_1": {
+            "description": "MongoDB.com database url",
+            "value": "",
+            "required": true
+        },
+        "ADMIN_ID": {
+            "description": "Control BroackCast",
+            "value": "",
+            "required": true
+        },
+        "BROADCAST_CHANNEL": {
+            "description": "ID of a Channel (user Notification)",
+            "value": "",
+            "required": true
         }
     },
     "addons": [],
