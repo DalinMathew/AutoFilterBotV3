@@ -7,3 +7,5 @@ umongo==3.0.0
 pyromod
 requests
 parse-torrent-name
+aiofiles
+dnspython
