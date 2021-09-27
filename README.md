@@ -13,7 +13,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 
 #### Hard Way
 ```bash
@@ -67,7 +67,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
-* (Editing PR0FESS0R-99](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+* [Editing PR0FESS0R-99](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
