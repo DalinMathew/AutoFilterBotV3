@@ -10,15 +10,6 @@ import random
 BUTTONS = {}
 BOT = {}
 
-RATING = ["5.1 | IMDB", "6.2 | IMDB", "7.3 | IMDB", "8.4 | IMDB", "9.5 | IMDB", ]
-GENRES = ["fun, fact",
-         "Thriller, Comedy",
-         "Drama, Comedy",
-         "Family, Drama",
-         "Action, Adventure",
-         "Film Noir",
-         "Documentary"]
-
 @Client.on_message(filters.text & filters.private & filters.incoming & filters.user(AUTH_USERS) if AUTH_USERS else filters.text & filters.private & filters.incoming)
 async def filter(client, message):
     if message.text.startswith("/"):
