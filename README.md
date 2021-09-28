@@ -1,5 +1,7 @@
 ### [LuciferMoringstar_Robot](https://telegram.dog/LuciferMoringstar_Robot)
 
+<a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
+</a>
 
 #### Added Features
 * Imdb posters for autofilter.
