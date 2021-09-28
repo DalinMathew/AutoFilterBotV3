@@ -25,6 +25,8 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+
 @Mo_Tech_YT
 """
 
