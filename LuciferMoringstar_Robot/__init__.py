@@ -3,7 +3,7 @@ from .Utils import (
    get_file_details,
    is_subscribed,
    get_poster,
-  Media
+   Media
 )
 from .Channel import (
    RATING,
