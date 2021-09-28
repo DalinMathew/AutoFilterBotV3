@@ -73,7 +73,7 @@
             "required": false
         },
         "DATABASE_2": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
             "value": ""
         },
         "BOT_NAME": {
@@ -96,7 +96,7 @@
             "required": false
         },
         "DATABASE_1": {
-            "description": "MongoDB.com database url",
+            "description": "https://youtu.be/gBLTsH-IXr0",
             "value": "",
             "required": true
         },
