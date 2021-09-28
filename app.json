@@ -72,11 +72,11 @@
             "value": "",
             "required": false
         },
-        "DATABASE_URI": {
+        "DATABASE_2": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "value": ""
         },
-        "DATABASE_NAME": {
+        "BOT_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "value": "LuciferMoringstar_Robot"
         },
@@ -90,12 +90,12 @@
             "value": "300",
             "required": false
         },
-        "BROADCAST_2": {
+        "BROADCAST": {
             "description": "Value should be True or False. Broadcast with Forward Tag or as Copy.(Without Forward Tag)",
             "value": "True",
             "required": false
         },
-        "BROACKCAST_1": {
+        "DATABASE_1": {
             "description": "MongoDB.com database url",
             "value": "",
             "required": true
