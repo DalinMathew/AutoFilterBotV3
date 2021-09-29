@@ -7,7 +7,7 @@
 ## Subscribe YouTube Channel
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 ## More Bots
-<a href="https://telegram.dog/MT_BOTZ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://telegram.dog/MT_BOTZ">
 
 #### Added Features
 * Imdb posters for autofilter.
