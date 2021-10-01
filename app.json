@@ -1,6 +1,7 @@
 {
-    "name": "LuciferMoringstar_Robot",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "name": "Auto Filter Bot V3",
+    "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
+    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -14,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
+    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -49,7 +50,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm ADV Auto Filter Bot**",
+            "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -73,11 +74,11 @@
             "required": false
         },
         "DATABASE_2": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com ",
             "value": ""
         },
         "BOT_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "Name of the database in mongoDB ",
             "value": "LuciferMoringstar_Robot"
         },
         "COLLECTION_NAME": {
@@ -96,12 +97,12 @@
             "required": false
         },
         "DATABASE_1": {
-            "description": "https://youtu.be/gBLTsH-IXr0",
+            "description": "Broadcast Group Database",
             "value": "",
             "required": true
         },
         "ADMIN_ID": {
-            "description": "Control BroackCast",
+            "description": "Control BroadCast",
             "value": "",
             "required": true
         },
