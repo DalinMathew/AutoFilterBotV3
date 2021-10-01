@@ -5,7 +5,7 @@
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 ## Subscribe YouTube Channel
-<a href="https://youtube.com/C/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/C/NaughtyPROFESSOR?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/NaughtyPROFESSOR?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 #### Added Features
 * Imdb posters for autofilter.
