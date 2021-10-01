@@ -1,11 +1,11 @@
-### [LuciferMoringstar_Robot](https://telegram.dog/LuciferMoringstar_Robot)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar_Robot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar_Robot?style=social"></img>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
+<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 ## Subscribe YouTube Channel
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/C/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/C/NaughtyPROFESSOR?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 #### Added Features
 * Imdb posters for autofilter.
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
@@ -47,13 +47,13 @@ Check [`sample_info.py`](sample_info.py) before editing [`Config.py`](Config.py)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/gBLTsH-IXr0)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/gBLTsH-IXr0)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com)
 
 #### Optional Variables
 * `OMDB_API_KEY`: OMBD_API_KEY to generate imdb poster for filter results.Get it from [omdbapi.com](http://www.omdbapi.com/apikey.aspx)
 * `CUSTOM_FILE_CAPTION` : A custom caption for your files. You can format it with file_name, file_size, file_caption.(supports html formating)
-Example: `<b>Join [MT Bots](https://t.me/MT_Botz) for more useful bots</b>\n\n<code>{file_name}</code>\nSize{file_size}\n{file_caption}.`
+Example: `<b>Join [MT Bots](https://t.me/MalRok) for Best Channels</b>\n\n<code>{file_name}</code>\nSize{file_size}\n{file_caption}.`
 * `AUTH_GROUPS` : ID of groups which bot should work as autofilter, bot can only work in thease groups. If not given , bot can be used in any group.
 * `COLLECTION_NAME`: Name of the collections. Defaults to Telegram_files. If you going to use same database, then use different collection name for each bot
 * `CACHE_TIME`: The maximum amount of time in seconds that the result of the inline query may be cached on the server
@@ -63,7 +63,7 @@ Example: `<b>Join [MT Bots](https://t.me/MT_Botz) for more useful bots</b>\n\n<c
 * `START_MSG`: Welcome message for start command.
 
 ##### Note
-* Currently [API used](http://www.omdbapi.com) here is allowing 1000 requests per day. [You may not get posters if its crossed](https://t.me/mt_botz). 
+* Currently [API used](http://www.omdbapi.com) here is allowing 1000 requests per day. [You may not get posters if its crossed]. 
 Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate requests.
 
 ## Tips
@@ -75,6 +75,8 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
 * [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+* [Mo Tech YT](https://t.me/Mo_Tech_Group)
+* [Lucifer Morningstar](@Lucifer_Devil_AD)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
