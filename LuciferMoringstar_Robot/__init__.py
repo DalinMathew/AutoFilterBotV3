@@ -25,19 +25,16 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
-[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
-
-@Mo_Tech_YT
 """
 
 ABOUT = """
-➥ Name :  Auto Filter With IMDB
+➥ Name :  Auto Filter V3
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [Naughty PROFESSOR](www.youtube.com/C/NaughtyPROFESSOR)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Tutorial : [Click Me]()
 """
