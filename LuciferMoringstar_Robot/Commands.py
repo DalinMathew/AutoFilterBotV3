@@ -82,10 +82,10 @@ async def start(bot, message):
                         f_caption=f_caption
                 if f_caption is None:
                     f_caption = f"{files.file_name}"
-                buttons = [
-                    [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
-                    ]
+                
+                    
+                      
+                 
                     ]
                 await bot.send_cached_media(
                     chat_id=message.from_user.id,
@@ -328,10 +328,10 @@ async def delete(bot, message):
         await msg.edit('File not found in database')
 @Client.on_message(filters.command('about'))
 async def bot_info(bot, message):
-    buttons = [
-        [
+    b
+        
             
-            InlineKeyboardButton('Deploy Video', url=f'{TUTORIAL}')
-        ]
+        
+        
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
