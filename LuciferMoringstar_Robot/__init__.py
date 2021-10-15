@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Charlie333_bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Jikku](https://t.me/joinchat/rP2J5aSvTvk3YmM1
+)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Working for : [](SpØ͢͢͢τ⚠© M𐍉vΐes❥ ™Lτᖙ CHATTING GROUP.)
 """
