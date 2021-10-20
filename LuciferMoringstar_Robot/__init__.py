@@ -25,17 +25,17 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+**Managed By @CKofficial
 """
 
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Editor : [Paulwalker](https://t.me/saminsumesh)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Source Code : [Click Me](https://t.me/ippotharam34)
 """
