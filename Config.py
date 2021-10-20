@@ -28,8 +28,8 @@ auth_channel = environ.get('FORCES_SUB')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 UPDATES = "https://t.me/housefull_links"
-LINK = "https://t.me/fbm_cinema
-PM = "http://t.me/saminsumesh
+LINK = "https://t.me/fbm_cinema"
+PM = "http://t.me/saminsumesh"
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
 DATABASE_NAME = environ['BOT_NAME']
