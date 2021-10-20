@@ -24,13 +24,15 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ['CHANNELS'].split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('FORCES_SUB')
+auth_channel = environ.get('
+                           
+                           FORCES_SUB')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 UPDATES = "https://t.me/ckofficial"
 CODE = "https://t.me/ippotharam34"
 PM = "https://t.me/TTRabit"
-LINK = ""
+LINK = "https://t.me/Ckottrelease_links"
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
 DATABASE_NAME = environ['BOT_NAME']
