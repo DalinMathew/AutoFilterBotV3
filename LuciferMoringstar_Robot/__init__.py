@@ -25,6 +25,7 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+**Managed By @CKofficial
 """
 
 ABOUT = """
