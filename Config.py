@@ -29,7 +29,7 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 UPDATES = "https://t.me/ckofficial"
 CODE = "https://t.me/ippotharam34"
-PM = "https://t.me/"
+PM = "https://t.me/TTRabit"
 LINK = ""
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
