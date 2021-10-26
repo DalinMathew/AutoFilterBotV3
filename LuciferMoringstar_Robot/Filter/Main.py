@@ -275,19 +275,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 )
                 return
         elif query.data == "help":
-            buttons = [
-                [
-                    InlineKeyboardButton('Making Video', url=f'{TUTORIAL}')
-                ]
-                ]
+
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
         elif query.data == "about":
-            buttons = [
-                [
-                    InlineKeyboardButton('Making Video', url=f'{TUTORIAL}')
-                ]
-                ]
+            
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
@@ -355,4 +347,4 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "pages":
             await query.answer()
     else:
-        await query.answer("കൌതുകും ലേശം കൂടുതൽ ആണല്ലേ👀",show_alert=True)
+        await query.answer("Don't Get Smart With Me This is not For You👀",show_alert=True)
