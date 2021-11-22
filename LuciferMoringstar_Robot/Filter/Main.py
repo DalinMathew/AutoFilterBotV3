@@ -277,7 +277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    InlineKeyboardButton('Making Video', url=f'{TUTORIAL}')
+                    InlineKeyboardButton('')
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
