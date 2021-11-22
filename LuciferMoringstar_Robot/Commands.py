@@ -49,7 +49,7 @@ async def start(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=f '{TUTORIAL}')
+                                InlineKeyboardButton("📢 Join Updates Channel 📢", url= 'https://t.me/LMovies_H')
                             ],
                             [
                                 InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 Join Now 🎖', url=f'Https://t.me/LMovies_HD')
+                        InlineKeyboardButton('🎖 Join Now 🎖', url=f'{TUTORIAL}')
                     ]
                     ]
                 await bot.send_cached_media(
