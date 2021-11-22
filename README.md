@@ -2,10 +2,9 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
-## How To Deploy Video
-<a href="https://youtu.be/5hnYOKBzyi8"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
-## Subscribe YouTube Channel
-<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+## 
+<a 
+<a 
 
 #### Added Features
 * Imdb posters for autofilter.
@@ -20,7 +19,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
+[!JOIN NOW 🔴](https://t.me/LMovies_HD)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
