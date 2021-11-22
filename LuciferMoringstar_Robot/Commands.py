@@ -49,7 +49,7 @@ async def start(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 Join Updates Channel 📢", url= 'https://t.me/LMovies_H')
+                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=f '{TUTORIAL}')
                             ],
                             [
                                 InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
