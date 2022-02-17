@@ -49,7 +49,7 @@ async def start(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=https://t.me/newallmoviesx)
                             ],
                             [
                                 InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
@@ -84,8 +84,8 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
-                    ]
+                        InlineKeyboardButton('🎖 𝙅𝙤𝙞𝙣 🎖', url=f'{TUTORIAL}')
+                    ]DEPLOY
                     ]
                 await bot.send_cached_media(
                     chat_id=message.from_user.id,
@@ -281,7 +281,7 @@ async def _banned_usrs(c, m):
 @Client.on_message(filters.command('total') & filters.user(ADMINS))
 async def total(bot, message):
     """Show total files in database"""
-    msg = await message.reply("Processing...⏳", quote=True)
+    msg = await message.reply("**Processing...⏳**", quote=True)
     try:
         total = await Media.count_documents()
         await msg.edit(f'📁 Saved files: {total}')
