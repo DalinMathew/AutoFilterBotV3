@@ -3,7 +3,7 @@ import logging
 from pyrogram import Client, filters
 from pyrogram import StopPropagation
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from Config import START_MSG, CHANNELS, ADMINS, AUTH_CHANNEL, CUSTOM_FILE_CAPTION, TUTORIAL, BROADCAST_CHANNEL, DB_URL, SESSION, ADMIN_ID    
+from Config import START_MSG, CHANNELS, ADMINS, AUTH_CHANNEL, CUSTOM_FILE_CAPTION, TUTORIAL, BROADCAST_CHANNEL, DB_URL, SESSION, ADMIN_ID ,TOTURIAL  
 from LuciferMoringstar_Robot.Utils import Media, get_file_details 
 from LuciferMoringstar_Robot.Broadcast import broadcast
 from LuciferMoringstar_Robot import ABOUT
