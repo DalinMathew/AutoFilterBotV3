@@ -277,7 +277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    InlineKeyboardButton('Other Bots 🤖', url=f'{TOTURIAL}')
+                    InlineKeyboardButton('Help 👨‍💻', url=f'{TOTURIAL}')
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -285,7 +285,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton(' Other Bots 🤖', url=f'{TOTURIAL}')
+                    InlineKeyboardButton(' More Help 👨‍💻', url=f'{TOTURIAL}')
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -308,7 +308,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('⚙️ UPDATES CHANNEL ⚙️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('Share This Bot 🔄', url=f'{TUTORIAL}')
                     ]
                     ]
                 
@@ -339,7 +339,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('⚙️ UPDATES CHANNEL ⚙️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('Share This Bot 🔄', url=f'{TUTORIAL}')
                     ]
                     ]
                 
