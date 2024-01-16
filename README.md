@@ -22,6 +22,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
+### Deploy To Railway 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/S7B40q?referralCode=QOhbOQ)
+
 #### Hard Way
 ```bash
 # Create virtual environment
