@@ -22,6 +22,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
+### Deploy To Kobey 
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+
+
 #### Hard Way
 ```bash
 # Create virtual environment
